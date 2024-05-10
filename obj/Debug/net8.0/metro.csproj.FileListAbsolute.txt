@@ -1,0 +1,14 @@
+/Users/luanvu/metro/bin/Debug/net8.0/metro
+/Users/luanvu/metro/bin/Debug/net8.0/metro.deps.json
+/Users/luanvu/metro/bin/Debug/net8.0/metro.runtimeconfig.json
+/Users/luanvu/metro/bin/Debug/net8.0/metro.dll
+/Users/luanvu/metro/bin/Debug/net8.0/metro.pdb
+/Users/luanvu/metro/obj/Debug/net8.0/metro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luanvu/metro/obj/Debug/net8.0/metro.AssemblyInfoInputs.cache
+/Users/luanvu/metro/obj/Debug/net8.0/metro.AssemblyInfo.cs
+/Users/luanvu/metro/obj/Debug/net8.0/metro.csproj.CoreCompileInputs.cache
+/Users/luanvu/metro/obj/Debug/net8.0/metro.dll
+/Users/luanvu/metro/obj/Debug/net8.0/refint/metro.dll
+/Users/luanvu/metro/obj/Debug/net8.0/metro.pdb
+/Users/luanvu/metro/obj/Debug/net8.0/metro.genruntimeconfig.cache
+/Users/luanvu/metro/obj/Debug/net8.0/ref/metro.dll
